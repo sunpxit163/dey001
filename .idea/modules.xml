@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/clode_eureka_sql/clode_eureka_sql.iml" filepath="$PROJECT_DIR$/clode_eureka_sql/clode_eureka_sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/clode_eureka_sql_8002/clode_eureka_sql_8002.iml" filepath="$PROJECT_DIR$/clode_eureka_sql_8002/clode_eureka_sql_8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/clode_eureka_sql_8003/clode_eureka_sql_8003.iml" filepath="$PROJECT_DIR$/clode_eureka_sql_8003/clode_eureka_sql_8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_feing_80/cloud_feing_80.iml" filepath="$PROJECT_DIR$/cloud_feing_80/cloud_feing_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_hystrix_8001/cloud_hystrix_8001.iml" filepath="$PROJECT_DIR$/cloud_hystrix_8001/cloud_hystrix_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloude_hystrix_Dashboar/cloude_hystrix_Dashboar.iml" filepath="$PROJECT_DIR$/cloude_hystrix_Dashboar/cloude_hystrix_Dashboar.iml" />
     </modules>
   </component>
 </project>

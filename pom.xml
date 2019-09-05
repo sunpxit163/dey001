@@ -16,6 +16,9 @@
         <module>clode_eureka_7003</module>
         <module>clode_eureka_sql_8002</module>
         <module>clode_eureka_sql_8003</module>
+        <module>cloud_feing_80</module>
+        <module>cloud_hystrix_8001</module>
+        <module>cloude_hystrix_Dashboar</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

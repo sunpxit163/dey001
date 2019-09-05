@@ -15,6 +15,9 @@
         <module name="clode_eureka_sql" />
         <module name="clode_eureka_sql_8002" />
         <module name="clode_eureka_sql_8003" />
+        <module name="cloud_feing_80" />
+        <module name="cloud_hystrix_8001" />
+        <module name="cloude_hystrix_Dashboar" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +30,9 @@
       <module name="clode_eureka_sql" target="1.8" />
       <module name="clode_eureka_sql_8002" target="1.8" />
       <module name="clode_eureka_sql_8003" target="1.8" />
+      <module name="cloud_feing_80" target="1.8" />
+      <module name="cloud_hystrix_8001" target="1.8" />
+      <module name="cloude_hystrix_Dashboar" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

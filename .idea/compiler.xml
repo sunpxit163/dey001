@@ -15,9 +15,12 @@
         <module name="clode_eureka_sql" />
         <module name="clode_eureka_sql_8002" />
         <module name="clode_eureka_sql_8003" />
+        <module name="clode_zuul_9527" />
         <module name="cloud_feing_80" />
         <module name="cloud_hystrix_8001" />
         <module name="cloude_hystrix_Dashboar" />
+        <module name="cloude_server_3344" />
+        <module name="config_client_root_3355" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,9 +33,12 @@
       <module name="clode_eureka_sql" target="1.8" />
       <module name="clode_eureka_sql_8002" target="1.8" />
       <module name="clode_eureka_sql_8003" target="1.8" />
+      <module name="clode_zuul_9527" target="1.8" />
       <module name="cloud_feing_80" target="1.8" />
       <module name="cloud_hystrix_8001" target="1.8" />
       <module name="cloude_hystrix_Dashboar" target="1.8" />
+      <module name="cloude_server_3344" target="1.8" />
+      <module name="config_client_root_3355" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

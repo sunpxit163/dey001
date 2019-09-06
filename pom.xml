@@ -19,6 +19,9 @@
         <module>cloud_feing_80</module>
         <module>cloud_hystrix_8001</module>
         <module>cloude_hystrix_Dashboar</module>
+        <module>clode_zuul_9527</module>
+        <module>cloude_server_3344</module>
+        <module>config_client_root_3355</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
